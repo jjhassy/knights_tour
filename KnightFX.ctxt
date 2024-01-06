@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=KnightFX
+comment1.params=x\ y
+comment1.target=boolean\ valid(int,\ int)
+comment2.params=board\ x\ y
+comment2.target=boolean\ empty(int[],\ int,\ int)
+comment3.params=board\ x\ y
+comment3.target=int\ getDegree(int[],\ int,\ int)
+comment4.params=board\ knight
+comment4.target=KnightFX.Node\ warnsdorff(int[],\ KnightFX.Node)
+comment5.params=board
+comment5.target=void\ print(int[])
+comment6.params=x\ y\ xx\ yy
+comment6.target=boolean\ neighbor(int,\ int,\ int,\ int)
+comment7.params=
+comment7.target=boolean\ createBoard()
+comment8.params=stage
+comment8.target=void\ start(javafx.stage.Stage)
+numComments=9
